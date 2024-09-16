@@ -1,0 +1,6 @@
+@JWT_API_BD_HostAddress = http://localhost:5230
+
+GET {{JWT_API_BD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
